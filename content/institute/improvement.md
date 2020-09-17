@@ -7,4 +7,4 @@
 - [ ] 5-blog: spcing between text and thumbnail
 - [ ] 6-formation page make pics biger (under title)
 - [ ] 7-jumbotron apply now btn transition of icons (left to right on load)
-- [ ] 8-add dark mode  toggler somewhere
+- [ ] 8-add dark mode  toggler somewhere.
