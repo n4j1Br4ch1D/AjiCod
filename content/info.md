@@ -8,7 +8,7 @@
 - Phones:
 
   - +212 689-558573
-  -
+  - Fax: 0528333839
 
 - social platforms:
 
