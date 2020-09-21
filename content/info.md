@@ -2,6 +2,7 @@
 
 - Address: Bureau 11 et 12 3ème étage IMMB 117 1 lotissement ALAMANE 2 commune DCHEIRA ELJIHADIA INZEGANE
 - Google Maps Link: [@30.3638165,-9.5255321,43m](https://www.google.com/maps/@30.3638165,-9.5255321,43m)
+- https://maps.google.com/?q=30.3638165,-9.5255321&output=svembed
 - Emails:
   - INFO@AJICOD.MA
   - STE.ajicod@gmail.com
